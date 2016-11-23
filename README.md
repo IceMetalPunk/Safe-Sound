@@ -4,11 +4,11 @@ Safe Sound is an app designed to help people feel safe and be safe. They say the
 
 ###Three Steps
 
-Step 1: Press the alarm button to toggle an alarm on or off. If there are people around, it will draw attention; assailants generally don't like witnesses, so the unwanted attention should help deter them.
+**Step 1:** Press the alarm button to toggle an alarm on or off. If there are people around, it will draw attention; assailants generally don't like witnesses, so the unwanted attention should help deter them.
 
-Step 2: (PLANNED - UNIMPLEMENTED) If there is no one else around, or if the attacker isn't put off by their attention, then press the "Call an Ally" button to automatically call the nearest registered ally to your location. Start the conversation by letting them know you're a Safe Sound user and feel threatened, then give them information about your situation and attacker. If the attacker knows there's someone out there who can identify them to the police, it should deter them even more.
+**Step 2:** (PLANNED - UNIMPLEMENTED) If there is no one else around, or if the attacker isn't put off by their attention, then press the "Call an Ally" button to automatically call the nearest registered ally to your location. Start the conversation by letting them know you're a Safe Sound user and feel threatened, then give them information about your situation and attacker. If the attacker knows there's someone out there who can identify them to the police, it should deter them even more.
 
-Step 3: If the first two steps fail, or if you feel you are in immediate danger with no time to try them, you can press the Emergency button, which will call for emergency services. In the US, this number is 911, but in other countries, the number varies; Safe Sound will call the appropriate emergency number based on your current location.
+**Step 3:** If the first two steps fail, or if you feel you are in immediate danger with no time to try them, you can press the Emergency button, which will call for emergency services. In the US, this number is 911, but in other countries, the number varies; Safe Sound will call the appropriate emergency number based on your current location.
 
 ###To-Do List
 
