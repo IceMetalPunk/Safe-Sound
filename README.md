@@ -12,7 +12,7 @@ Safe Sound is an app designed to help people feel safe and be safe. They say the
 
 ###To-Do List
 
-The server end of the Ally system is fully complete. All that's left is to connect the app to the Safe Sound server, and then it will be ready for its initial launch.
+The server end of the Ally system is fully complete. All that's left is to connect the app to the Safe Sound server and add a GPS toggle option (for when you don't want to be tracked), and the app will be ready for its initial realase.
 
 After the initial launch, the following features are planned:
 
